@@ -91,7 +91,7 @@ defaultContentLanguage = "zh-cn"  # 默认使用的语言
   customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
 
   [params.social]                                         # 社交链接
-    #a-email = "taofu328@gmail.com"
+    a-email = "taofu328@gmail.com"
     #b-stack-overflow = "http://localhost:1313"
     #c-twitter = "http://localhost:1313"
     #d-facebook = "http://localhost:1313"
